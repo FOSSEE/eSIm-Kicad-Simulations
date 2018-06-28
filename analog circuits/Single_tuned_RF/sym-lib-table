@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Single_tuned_RF-rescue)(type Legacy)(uri ${KIPRJMOD}/Single_tuned_RF-rescue.lib)(options "")(descr ""))
+  (lib (name laser_driver_schlib)(type Legacy)(uri C:/Users/Mind/Downloads/Kicad/kicad-source-mirror-master/kicad-source-mirror-master/demos/simulation/laser_driver/laser_driver_schlib.lib)(options "")(descr ""))
+)

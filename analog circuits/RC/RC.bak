@@ -24,7 +24,7 @@ F 2 "" H 3600 3850 50  0001 C CNN
 F 3 "" H 3600 3850 50  0001 C CNN
 F 4 "V" H 3600 3850 50  0001 C CNN "Spice_Primitive"
 F 5 "Y" H 3600 3850 50  0001 C CNN "Spice_Netlist_Enabled"
-F 6 "pwl(0m 0 0.5m 5 50m 5 50.5m 0 100m 0)" H 3600 3850 50  0001 C CNN "Spice_Model"
+F 6 "pwl(50m 5 50.5m 0 100m 0 500u 5 0m 0)" H 3600 3850 50  0001 C CNN "Spice_Model"
 	1    3600 3850
 	1    0    0    -1  
 $EndComp

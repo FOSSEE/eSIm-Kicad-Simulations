@@ -73,31 +73,11 @@ Wire Wire Line
 Wire Wire Line
 	4550 4350 4550 4600
 Wire Wire Line
-	4900 3100 5550 3100
+	4900 3100 5650 3100
 Wire Wire Line
 	5650 3100 5650 3650
 Wire Wire Line
 	3600 3550 3600 3100
 Wire Wire Line
-	3600 3100 3700 3100
-Text GLabel 3450 2750 0    50   Input ~ 0
-ip
-Wire Wire Line
-	3450 2750 3700 2750
-Wire Wire Line
-	3700 2750 3700 3100
-Connection ~ 3700 3100
-Wire Wire Line
-	3700 3100 4600 3100
-Text GLabel 5350 2800 0    50   Output ~ 0
-out
-Wire Wire Line
-	5350 2800 5550 2800
-Wire Wire Line
-	5550 2800 5550 3100
-Connection ~ 5550 3100
-Wire Wire Line
-	5550 3100 5650 3100
-Text Notes 7400 5800 0    50   ~ 0
-.tran 5m 100m
+	3600 3100 4600 3100
 $EndSCHEMATC
