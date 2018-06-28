@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name sallen_key_schlib)(type Legacy)(uri C:/Users/Mind/Downloads/Kicad/kicad-source-mirror-master/kicad-source-mirror-master/demos/simulation/sallen_key/sallen_key_schlib.lib)(options "")(descr ""))
+  (lib (name laser_driver_schlib)(type Legacy)(uri C:/Users/Mind/Downloads/Kicad/kicad-source-mirror-master/kicad-source-mirror-master/demos/simulation/laser_driver/laser_driver_schlib.lib)(options "")(descr ""))
+  (lib (name rectifier_schlib)(type Legacy)(uri C:/Users/Mind/Downloads/Kicad/kicad-source-mirror-master/kicad-source-mirror-master/demos/simulation/rectifier/rectifier_schlib.lib)(options "")(descr ""))
+)
